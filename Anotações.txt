@@ -1,1 +1,17 @@
 # Anotações Relevantes 
+
+## Como criar Commit>
+
+Git init * Inicia um repositório GIT Vazio* >
+
+git config --global user.email "digitar email" user.name "nome" * cria as credenciais* >
+
+git add . * adiciona novos arquivos >
+
+git commit -m "nota sobre commit novo' *commita* >
+
+git status *fornece o status do commit* >
+
+git remote add origin (link repositorio github) *cria origem para upload*>
+
+
