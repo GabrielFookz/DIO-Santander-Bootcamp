@@ -12,6 +12,10 @@ git commit -m "nota sobre commit novo' * commita * >
 
 git status * fornece o status do commit * >
 
+<<<<<<< HEAD
 git remote add origin (link repositorio github) * cria origem para upload * >
+=======
+git remote add origin (link repositorio github) * cria os dados de origem para upload ao GITHUB * > 
+>>>>>>> 4ed8fdc28e1f0825d820b87152153bc76576bb59
 
 
